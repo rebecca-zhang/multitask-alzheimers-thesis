@@ -23,8 +23,8 @@ View abstract and access a copy from the Princeton University Undergraduate Thes
 * Expansion to Ongoing ADNI Study Data 
 * A Novel Approach 
 
-5. Discussion 33
+5. Discussion
 
-6. Conclusion 35
+6. Conclusion 
 
 7. Code
