@@ -1,5 +1,5 @@
 # Multi-task Models for Predicting the Progression of Alzheimer's from MRI
-This repo contains a copy of my written senior thesis, completed under the advisory of Prof. Han Liu and submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Engineering Department of Operations Research and Financial Engineering, Princeton University, June 2015. 
+This repo contains a copy of my written senior thesis, completed under the advisory of Prof. Han Liu and submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Engineering Department of Operations Research and Financial Engineering, Princeton University, June 2015. A few code files are also shared, in this repo as well as in the final section of the written document.
 
 View abstract and access a copy from the Princeton University Undergraduate Thesis Database <a href="http://dataspace.princeton.edu/jspui/handle/88435/dsp01k930c040d">here</a>.
 
